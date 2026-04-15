@@ -30,15 +30,19 @@ Adicionalmente, a interface exibe um grafico 2D da trajetoria e uma animacao que
 
 ## Estrutura do Projeto
 
-ArremessoPeso/
-├── src/
-│ ├── program/
-│ │ └── Main.java # Classe principal e janela da aplicacao
-│ └── entidades/
-│ ├── CalculadoraFisica.java # Metodos estaticos para calculos fisicos
-│ ├── ValidadorEntrada.java # Validacao de limites das entradas
-│ └── PainelTrajetoria.java # Painel que desenha trajetoria e animacao
-└── resources/ # Pasta para recursos (imagens)
+<img width="327" height="524" alt="image" src="https://github.com/user-attachments/assets/5e93d532-9cfa-495f-94ce-a5bba06e350b" />
+
+## Interface
+
+GUI simples e intuitiva com grafico de simulação
+
+<img width="1012" height="777" alt="image" src="https://github.com/user-attachments/assets/087674ed-01c9-488e-adf7-1ca111a44b8d" />
+
+## GRAFICO DE SIMULAÇÃO
+
+Grafico com interface simples e discreta, mostrando a trajetora  via .time
+
+<img width="966" height="503" alt="image" src="https://github.com/user-attachments/assets/ccfc49f2-a002-4e20-8917-f85baf8c553e" />
 
 
 ## Como Executar
