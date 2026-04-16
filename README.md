@@ -30,6 +30,8 @@ Adicionalmente, a interface exibe um grafico 2D da trajetoria e uma animacao que
 
 ## Exercicio:
 
+Capitulo 5
+
  Um arremessador de peso lança um peso de 7260 kg 
 empurrando- o ao longo de uma linha reta com 1650 m de compri
 mento e um ângulo de 34,10° com a horizontal, acelerando o peso 
