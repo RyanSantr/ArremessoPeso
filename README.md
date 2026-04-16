@@ -28,7 +28,7 @@ Adicionalmente, a interface exibe um grafico 2D da trajetoria e uma animacao que
 - Renderizacao Grafica: Graphics2D (Java 2D API)
 - Animacao: javax.swing.Timer
 
--## EX UTILIZADO:
+## EX UTILIZADO:
 
 ---68 Um arremessador de peso lança um peso de 7260 kg 
 empurrando- o ao longo de uma linha reta com 1650 m de compri
@@ -52,13 +52,6 @@ parte 1 da resolução
 parte 2 da resolução
 
 <img width="2250" height="2160" alt="image" src="https://github.com/user-attachments/assets/9002a77e-69f5-435c-9748-57b5e3d487d7" />
-
-parte 1 a parte 2
-
-<img width="2160" height="2626" alt="image" src="https://github.com/user-attachments/assets/ac90afa5-896e-433a-bdbd-c62e3a2efd38" />
-
-parte 3
-<img width="2250" height="2160" alt="image" src="https://github.com/user-attachments/assets/34d20827-4984-4c2a-8ffb-664a413f9f11" />
 
 Resultado =~ 335
 
