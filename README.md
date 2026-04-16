@@ -133,7 +133,6 @@ Resultados esperados:
 ## Observacoes
 
 - O programa aceita numeros com virgula ou ponto como separador decimal.
-- O programa, para fazer o código da animação foi utilizado I.a.
 - Caso as imagens nao sejam encontradas, a aplicacao funciona normalmente com fundo branco e sem icone.
 - Os limites de validacao foram definidos com base em valores tipicos do arremesso de peso.
 
