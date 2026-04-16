@@ -28,13 +28,56 @@ Adicionalmente, a interface exibe um grafico 2D da trajetoria e uma animacao que
 - Renderizacao Grafica: Graphics2D (Java 2D API)
 - Animacao: javax.swing.Timer
 
+-## EX UTILIZADO:
+
+---68 Um arremessador de peso lança um peso de 7260 kg 
+empurrando- o ao longo de uma linha reta com 1650 m de compri
+mento e um ângulo de 34,10° com a horizontal, acelerando o peso 
+até a velocidade de lançamento de 2,500 m/s (que se deve ao movi
+mento preparatório do atleta).
+
+O peso deixa a mão do aremessador 
+a uma alura de 2,110 me com um ângulo de 34,100 e percorre uma 
+distância horizontal de 15,90 m. Qual é o módulo da força média 
+que o atleta exerce sobre o peso durante a fase de aceleração? (Su
+gestão: rate o movimento durante a fase de aceleração como se 
+fosse ao longo de uma rampa com o ângulo dado.)
+
+(se eu nao fiz errado é assim: 
+
+parte 1 da resolução
+
+<img width="2160" height="2626" alt="image" src="https://github.com/user-attachments/assets/2a4d28de-c98b-48fd-9bea-f735a0887e34" />
+
+parte 2 da resolução
+
+<img width="2250" height="2160" alt="image" src="https://github.com/user-attachments/assets/9002a77e-69f5-435c-9748-57b5e3d487d7" />
+
+parte 1 a parte 2
+
+<img width="2160" height="2626" alt="image" src="https://github.com/user-attachments/assets/ac90afa5-896e-433a-bdbd-c62e3a2efd38" />
+
+parte 3
+<img width="2250" height="2160" alt="image" src="https://github.com/user-attachments/assets/34d20827-4984-4c2a-8ffb-664a413f9f11" />
+
+Resultado =~ 335
+
 ## Estrutura do Projeto
 
 <img width="327" height="524" alt="image" src="https://github.com/user-attachments/assets/5e93d532-9cfa-495f-94ce-a5bba06e350b" />
 
 ## Interface
 
-GUI simples e intuitiva com grafico de simulação
+GUI simples
+INPUTS
+
+MASSA DO PESO
+ALTURA INICIAL
+ANGULO DE LANÇAMENTO
+ALCANCE HORIZONTAL
+COMPRIMENTO DA RAMPA
+VELOCIDADE INICIAL
+GRAVIDADE
 
 <img width="1012" height="777" alt="image" src="https://github.com/user-attachments/assets/087674ed-01c9-488e-adf7-1ca111a44b8d" />
 
